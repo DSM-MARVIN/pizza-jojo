@@ -23,6 +23,9 @@ body{
 }
 
 .main-section{
+    background-image: url(./pizza-background.jpg);
+    background-position: center;
+    background-size: cover;
     font-weight: bolder;
     font-family: cursive;
     font-size: 35px;
@@ -30,7 +33,7 @@ body{
     padding: 3px;
     /* margin-top: -15px; */
     text-align: center;
-    background-color: #333;
+    /* background-color: #333; */
 }
 
 .main-section .w2{
